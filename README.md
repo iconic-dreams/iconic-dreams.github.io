@@ -6,4 +6,7 @@ Iconic Dreams - Micro Codes Development
 
 ## Lab:
 
-https://iconic-dreans.github.io/lab
+* **root**: [https://iconic-dreans.github.io/lab](https://iconic-dreans.github.io/lab)
+* **NotifyJS**: [lab/notify-js](https://iconic-dreans.github.io/lab/notify-js/)
+
+
